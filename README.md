@@ -1,3 +1,4 @@
+![Screenshot_2025-01-08-14-49-21-019_com netflix mediaclient](https://github.com/user-attachments/assets/04aa9a38-b98a-4b92-94a2-37a29c456d86)
 # AAAD [![Crowdin](https://badges.crowdin.net/aaad/localized.svg)](https://crowdin.com/project/aaad)
 
 
